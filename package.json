@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/leejhy0542/oss-week05/issues"
   },
-  "homepage": "https://github.com/leejhy0542/oss-week05#readme"
+  "homepage": "https://github.com/leejhy0542/oss-week05#readme",
+  "dependencies": {
+    "chalk": "^6.0.1"
+  }
 }
